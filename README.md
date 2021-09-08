@@ -5,7 +5,7 @@ C++
 ## Sąlygos ir sprendimai
 Metai | Užduoties sąlyga | Užduoties sprendimas | 
 | --- | --- | --- |
-| 2021 | Pildoma | Pildoma | 
+| 2021 | [Sąlyga](https://www.nsa.smm.lt/wp-content/uploads/2021/06/IT_2021_pagr.pdf) | Pildoma | 
 | 2020 | Pildoma | Pildoma | 
 | 2019 | Pildoma | Pildoma | 
 | 2018 | Pildoma | Pildoma | 
