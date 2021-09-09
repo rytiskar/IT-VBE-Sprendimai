@@ -5,7 +5,7 @@ C++
 ## Sąlygos ir sprendimai
 Metai | Užduoties sąlyga | Užduoties sprendimas | 
 | --- | --- | --- |
-| 2021 | [Sąlyga](https://www.nsa.smm.lt/wp-content/uploads/2021/06/IT_2021_pagr.pdf) | [U1](https://github.com/rytiskar/IT-VBE-Sprendimai/blob/main/U1%20B%C4%97gimas.cpp) | 
+| 2021 | [Sąlyga](https://www.nsa.smm.lt/wp-content/uploads/2021/06/IT_2021_pagr.pdf) | [U1](https://github.com/rytiskar/IT-VBE-Sprendimai/blob/main/2021/U1%20B%C4%97gimas.cpp) | 
 | 2020 | [Sąlyga](https://www.nec.lt/failai/8563_IT_2020_pagr_www.pdf) | Pildoma | 
 | 2019 | [Sąlyga](https://www.nec.lt/failai/8018_IT-VBE-1_2019.pdf) | Pildoma | 
 | 2018 | [Sąlyga](https://www.nec.lt/failai/7417_IT-VBE-1_2018-GALUTINE.pdf) | Pildoma | 
