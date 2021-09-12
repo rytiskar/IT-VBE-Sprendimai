@@ -27,6 +27,6 @@ Metai | Užduoties sąlyga | Užduoties sprendimas |
 - Laikotarpis: 2006 - 2021 m.
 - Užduotys sprendžiamos pagal jose nurodytus reikalavimus.
 - Spredimuose nėra vengiama naudoti <b>vector</b>, <b>string</b>, <b>stringstream</b>, <b>sort</b> ir kitų C++ kalbos implementacijų bei jų bibliotekų.
-- Taisymai ir pasiūlimai visada laukiami.
+- Taisymai ir pasiūlymai visada laukiami.
 
 
