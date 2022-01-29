@@ -6,7 +6,7 @@ C++
 Metai | Užduoties sąlyga | Užduoties sprendimas | 
 | --- | --- | --- |
 | 2021 | [Sąlyga](https://www.nsa.smm.lt/wp-content/uploads/2021/06/IT_2021_pagr.pdf) | [U1](https://github.com/rytiskar/IT-VBE-Sprendimai/blob/main/2021/U1%20B%C4%97gimas.cpp) [U2](https://github.com/rytiskar/IT-VBE-Sprendimai/blob/main/2021/U2%20Apklausa.cpp) | 
-| 2020 | [Sąlyga](https://www.nec.lt/failai/8563_IT_2020_pagr_www.pdf) | [U1](https://github.com/rytiskar/IT-VBE-Sprendimai/blob/main/2020/U1%20G%C4%97l%C4%97s.cpp) U2 | 
+| 2020 | [Sąlyga](https://www.nec.lt/failai/8563_IT_2020_pagr_www.pdf) | [U1](https://github.com/rytiskar/IT-VBE-Sprendimai/blob/main/2020/U1%20G%C4%97l%C4%97s.cpp) [U2](https://github.com/rytiskar/IT-VBE-Sprendimai/blob/main/2020/U2%20Var%C5%BEybos.cpp) | 
 | 2019 | [Sąlyga](https://www.nec.lt/failai/8018_IT-VBE-1_2019.pdf) | Pildoma | 
 | 2018 | [Sąlyga](https://www.nec.lt/failai/7417_IT-VBE-1_2018-GALUTINE.pdf) | Pildoma | 
 | 2017 | [Sąlyga](https://www.nec.lt/failai/6996_IT-VBE-1_2017-GALUTINE.pdf) | Pildoma | 
